@@ -1,0 +1,3 @@
+Routes:
+mentor:
+ -Mentor availablity update contain handling to prevent updated by other mentor or student.But it should be handked in frontend and not necessary here
